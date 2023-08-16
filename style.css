@@ -1,0 +1,17 @@
+body {
+    background-color: #BFB2AB;
+    overflow-x: hidden;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #BFB2AB;
+}
+
+#honor {
+    background-color: #BFB2AB;
+}
+
+section {
+    padding-top: 5rem;
+}
